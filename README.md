@@ -1,5 +1,5 @@
 
--->Future ready talent project by vadlakonda kranthi kumar
+# Future ready talent project by vadlakonda kranthi kumar
 
 I have created blog that is "Foodweblog" that gives information about various foods and reviews about different foods
 
