@@ -42,3 +42,5 @@ I have created blog that is "Foodweblog" that gives information about various fo
 # Microsoft Azure Bot for "FoodWeblog" project
 ![Screenshot (140)](https://user-images.githubusercontent.com/91481405/181013911-5aa82216-113e-4aa6-8d9c-2829b9f080fc.png)
 #
+# Email id:krantheeerssb08@gmail.com
+# Contact :+91 99599 05173
