@@ -8,6 +8,9 @@ I have created blog that is "Foodweblog" that gives information about various fo
 # My Git hub url-https://github.com/kranthi2996/foodweblog.git
 ![Screenshot (132)](https://user-images.githubusercontent.com/91481405/181009831-4a52ae9a-b73a-4b6c-af1a-2af9653b5e09.png)
 
+# My Git deployed project link-https://kranthi2996.github.io/foodweblog/
+#
+
 #      HOME PAGE
 ![Screenshot (128)](https://user-images.githubusercontent.com/91481405/181008372-aa60eb1f-c648-4bb3-8538-e7d3fdc7f2e5.png)
 ![Screenshot (129)](https://user-images.githubusercontent.com/91481405/181008839-0a93c453-b935-47a3-bbc0-9257fa44993c.png)
